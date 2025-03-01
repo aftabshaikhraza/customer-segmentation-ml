@@ -58,7 +58,7 @@ How to Run This Project
 
 Clone the repository:
 
-git clone https://github.com/your-username/customer-segmentation-ml.git
+git clone https://github.com/aftabshaikhraza/customer-segmentation-ml.git
 cd customer-segmentation-ml
 
 Install dependencies:
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 Run the Jupyter Notebook:
 
-jupyter notebook ML_Midterm.ipynb
+jupyter notebook Customer_Segmentation.ipynb
 
 Future Improvements
 
