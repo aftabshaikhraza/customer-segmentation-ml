@@ -69,6 +69,14 @@ Run the Jupyter Notebook:
 
 jupyter notebook Customer_Segmentation.ipynb
 
+##Dataset Information
+The dataset used in this project is sourced from **UC Ervine Machine learning Repository**.  
+It contains **customer transaction records**, which were preprocessed for analysis.  
+
+**Dataset Link:** https://archive.ics.uci.edu/dataset/352/online+retail  
+**Dataset citation:** Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
+**Dataset File:** `dataset.xlsx`
+
 Future Improvements
 
 Test additional clustering techniques (Gaussian Mixture Models, Agglomerative Clustering).
