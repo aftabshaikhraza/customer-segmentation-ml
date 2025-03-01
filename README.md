@@ -58,8 +58,8 @@ How to Run This Project
 
 Clone the repository:
 
-git clone https://github.com/aftabshaikhraza/Customer_Segmentation.git
-cd Customer-Segmentation
+git clone https://github.com/aftabshaikhraza/customer-segmentation-ml.git
+cd customer-segmentation-ml
 
 Install dependencies:
 
